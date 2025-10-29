@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+I am current student at NAIT in the web design program.
+
+I'm a fanatic for designing and developing websites and games
