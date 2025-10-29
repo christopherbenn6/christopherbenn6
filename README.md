@@ -17,5 +17,11 @@ Here are some ideas to get you started:
 
 # About Me
 I am current student at NAIT in the web design program.
+I'm a fanatic for designing and developing websites and games.
 
-I'm a fanatic for designing and developing websites and games
+# Experience
+ - 2 years of experience with game development in the unity engine
+ - Knowledge of Web design and development
+
+# My Life
+Away from my keyboard, I love going for walks, camping, and delving into rich adventures.
